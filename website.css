@@ -1,0 +1,50 @@
+.Heading {
+	height: 150px;
+	background-color: seagreen;
+	color: white;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+}
+
+.HeadingText {
+	text-align: center;
+}
+.navbar {
+	background-color: black;
+	height: 30px;
+	display: flex;
+	align-items: center;
+}	
+.navlink {
+	color: white;
+	margin-right: 10px;
+	text-decoration: none;
+}
+.main-container {
+	display: flex;
+	
+
+}
+
+.containerLeft {
+	flex-direction: column;
+	flex: 0;
+	min-width: 500px;
+	background-color: lightgray;
+	padding: 15px;
+}
+.containerRight {
+	flex-direction: column;
+	flex: 1;
+	padding: 15px;
+/*	min-width: 500px;*/
+}
+.footer{
+	background: gray;
+	height: 50px;
+	margin-top: 0;
+	padding-top: 0;
+	text-align: center;
+
+}

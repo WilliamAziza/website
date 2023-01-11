@@ -1,0 +1,90 @@
+.right-head{
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 10px;
+	color: white;
+}
+.head{
+	background-color: rgb(70, 0, 101);
+	height: 30px;
+}
+.stop{
+	text-align: right;
+}
+a{
+	color: white;
+}
+.navbar{
+	background-color: #550065;
+	color: white;
+	font-weight: bold;
+}
+h1 {
+	color: gold;
+	font-weight: bold;
+	font-size: 70px;
+	background-color: black;
+	height: 100px;
+}
+.champs{
+	font-size: 40px;
+}
+body{
+	background-color: black;
+}
+.hub{
+	margin-left: 200px;
+	height: 150px;
+	margin-top: 50px;
+}
+.matches{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.third{
+	border: none;
+	border-radius: 10px;
+	background-color: white;
+	mar
+}
+.sentence{
+	margin-left: 30px;
+	padding-top: 10px;
+	font-weight: bold;
+}
+.sentences{
+	margin-left: 30px;
+	font-weight: bold;
+}
+.final{
+	margin-top: 30px;
+	border: none;
+	border-radius: 10px;
+	background-color: white;
+	
+}
+.SignUp{
+	background-color: lightgray;
+}
+.Sign{
+	color: black;	
+	text-align: center;
+	padding-top: 40px;
+}
+.butt{
+	margin-left: 50%;
+	border: none;
+	border-radius: 5px;
+	background-color: blue;
+	color: white;
+	width: 100px;
+	margin-bottom: 30px;
+
+}
+.Messi{
+	background-image: url(cup.jpg);
+}
